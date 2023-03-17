@@ -1,0 +1,1714 @@
+{
+    "data": [
+        {
+            "filter": "Spectrum",
+            "label": "Python",
+            "metadata": [
+                "An object-oriented, interpreted language that gains much of its power from a large constellation of libraries, including popular modules for machine learning and scientific computing."
+            ],
+            "value": [
+                "100"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "C++",
+            "metadata": [
+                "Essentially an object-oriented version of C that proved to be a natural fit for software driven by graphical user interfaces."
+            ],
+            "value": [
+                "88.58016118"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Java",
+            "metadata": [
+                "An object-oriented language that creates code intended to be run on a virtual machine, allowing it to run on different platforms with little or no modification. Java is a popular choice for Web applications."
+            ],
+            "value": [
+                "70.22000411"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "C",
+            "metadata": [
+                "C is used to write software where speed and flexibility is important, such as in embedded systems or high-performance computing."
+            ],
+            "value": [
+                "96.80210334"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "C#",
+            "metadata": [
+                "An object-oriented language created by Microsoft for developing software for the .NET framework, which supports many applications running on Windows and Azure."
+            ],
+            "value": [
+                "86.99247287"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "PHP",
+            "metadata": [
+                "A scripting language primarily designed to support dynamic websites."
+            ],
+            "value": [
+                "12.8619383"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "R",
+            "metadata": [
+                "A language and programming environment designed for statistical analysis and data-mining applications."
+            ],
+            "value": [
+                "18.92305376"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "JavaScript",
+            "metadata": [
+                "A scripting language used primarily to add functionality to Web browsers on the fly, allowing the creation of complex Web pages."
+            ],
+            "value": [
+                "40.47836599"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Go",
+            "metadata": [
+                "Created by Google, Go has built-in support for programs that need to exchange information while running concurrently on different cores or computers."
+            ],
+            "value": [
+                "13.06088303"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Assembly",
+            "metadata": [
+                "A catchall term for a vast family of processor instruction sets, writing assembly code requires considerable expertise, but it allows the creation of high-speed software that can run directly \"on the metal.\" Not to be confused with WebAssembly"
+            ],
+            "value": [
+                "5.72653407"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Matlab",
+            "metadata": [
+                "A scripting language for MathWorks' Matlab computing environment, Matlab is designed for numerical computing tasks, such as engineering or scientific simulations."
+            ],
+            "value": [
+                "8.072910904"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Scala",
+            "metadata": [
+                "Programs written in Scala, an alternative to Java, can run on the same \"virtual machine\" as Java programs."
+            ],
+            "value": [
+                "8.713247295"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Ruby",
+            "metadata": [
+                "A scripting language designed to offer greater support for objects than other such languages."
+            ],
+            "value": [
+                "9.36604671"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "HTML",
+            "metadata": [
+                "HTML is a specialized language for describing the appearance and content of web pages, often extended using CSS and SCSSS."
+            ],
+            "value": [
+                "17.96736647"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Arduino",
+            "metadata": [
+                "Based on the Wiring language, with a development environment based on the Processing language which in turn was based on Java, the native language for the Arduino microcontroller has become the basis of a huge number of home-brew and prototype devices."
+            ],
+            "value": [
+                "3.175945753"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Shell",
+            "metadata": [
+                "A catchall term for a number of frameworks that allow scripting of operating system command-line instructions."
+            ],
+            "value": [
+                "10.11783664"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Perl",
+            "metadata": [
+                "Often used as the \"glue\" in complex systems, Perl used to refer to two closely related but distinct languages, Perl 5, and the overhauled Perl 6, but in 2019 Perl 6 was renamed Raku"
+            ],
+            "value": [
+                "4.952949528"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Swift",
+            "metadata": [
+                "Apple's current language for creating iOS and macOS software. The language is compatible with C, C++, and Objective-C code"
+            ],
+            "value": [
+                "3.323476928"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Objective-C",
+            "metadata": [
+                "Objective-C was Apple's favored language for writing applications for OS X or iOS until the introduction of Swift."
+            ],
+            "value": [
+                "4.304405049"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Lua",
+            "metadata": [
+                "A scripting language often used to make other applications programmable, especially in the animation and gaming domains, including the popular Roblox platform."
+            ],
+            "value": [
+                "1.340354657"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Fortran",
+            "metadata": [
+                "Created in the 1950s, Fortran is still used for high-performance scientific and engineering computing."
+            ],
+            "value": [
+                "0.585151186"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "SQL",
+            "metadata": [
+                "A specialized language designed to query and manipulate databases. Extensions exist that allow more general programs to be written, allowing, for example, buisiness logic to be run alongside a database."
+            ],
+            "value": [
+                "47.3687402"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Haskell",
+            "metadata": [
+                "A language built around pure functional programming, designed for applications where reliability is important."
+            ],
+            "value": [
+                "0.937236415"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "VHDL",
+            "metadata": [
+                "A hardware description language used in the creation and analysis of electronic circuits."
+            ],
+            "value": [
+                "2.132976199"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Visual Basic",
+            "metadata": [
+                "Microsoft created Visual Basic to allow rapid development of Windows applications but while it still supports its modern version, the company annouced it had no further plans to \"evolve Visual Basic as a language\" in 2020."
+            ],
+            "value": [
+                "2.04420391"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Cuda",
+            "metadata": [
+                "Created by graphics-chip maker Nvidia, Cuda is a platform and toolkit that allows programmers to tap the power of GPUs for general-purpose computing."
+            ],
+            "value": [
+                "2.457388517"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Rust",
+            "metadata": [
+                "Rust is designed to make concurrent systems easier to program reliably."
+            ],
+            "value": [
+                "5.011730836"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Verilog",
+            "metadata": [
+                "A hardware description language (defined by the IEEE 1364 standard) that is used in the creation and analysis of electronic circuits. It forms the basis of the more recent and extended SystemVerilog (IEEE 1800)"
+            ],
+            "value": [
+                "3.306868055"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "D",
+            "metadata": [
+                "Intended as a successor to C++, D features an inline assembler for using architecture specific hardware."
+            ],
+            "value": [
+                "3.147797087"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Pascal/Delphi",
+            "metadata": [
+                "Often found in the form of Delphi, a derivative of Pascal used for Windows applications and owned by the Embarcadero Delphi company. Open-source implementations under the rubric of Open Pascal exist for other platforms. other platforms."
+            ],
+            "value": [
+                "0.688528403"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Julia",
+            "metadata": [
+                "Julia is designed for statistical and scientific computing while retaining compatibility with legacy libraries written in Fortran or C."
+            ],
+            "value": [
+                "2.651706926"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Lisp",
+            "metadata": [
+                "Created in in the 1950s, Lisp became widely used by artificial intelligence researchers, but it has seen a decline in more recent years. However, dialects such as Clojure and Scheme (listed seperately) have active communities"
+            ],
+            "value": [
+                "0.77098697"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Prolog",
+            "metadata": [
+                "Originating in the artificial intelligence community, Prolog is primarily used as a teaching and research tool."
+            ],
+            "value": [
+                "0.441582321"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "LabView",
+            "metadata": [
+                "Created by National Instruments, LabView features a graphical programming environment designed for data acquisition and industrial control."
+            ],
+            "value": [
+                "1.963381632"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Erlang",
+            "metadata": [
+                "Created by Ericsson for embedded telephony applications, the release of Erlang as an open-source language in 1998 boosted its popularity among programmers developing applications that have to handle many concurrent tasks."
+            ],
+            "value": [
+                "0.295991236"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "SAS",
+            "metadata": [
+                "A data- and statistical-analysis language."
+            ],
+            "value": [
+                "7.346561937"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Clojure",
+            "metadata": [
+                "A dialect of Lisp that is compatible with the same \"virtual machine\" that supports Java programs."
+            ],
+            "value": [
+                "0.531940878"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Cobol",
+            "metadata": [
+                "Created in the late 1950s for business and financial applications, COBOL software still drives critical systems in many large institutions."
+            ],
+            "value": [
+                "0.915385195"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "ABAP",
+            "metadata": [
+                "ABAP (Advanced Business Application Programming) is an enterprise programming language created by SAP."
+            ],
+            "value": [
+                "0.977579977"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "TCL",
+            "metadata": [
+                "An interpreted language intended for rapid prototyping and supporting the Tk graphical user interface used primarily with Unix systems and Python applications."
+            ],
+            "value": [
+                "0.574006361"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Ada",
+            "metadata": [
+                "Originally designed for the U.S. Department of Defense, Ada is used for applications where reliability is critical, such as aerospace control systems."
+            ],
+            "value": [
+                "1.161190402"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Scheme",
+            "metadata": [
+                "Originally a teaching language, Scheme is now a family of Lisp varients still used for applications, with varients falling into into one of two groups, the \"small\" and \"large\" versions of the language."
+            ],
+            "value": [
+                "0.994520131"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "J",
+            "metadata": [
+                "Primarily used for analytics and mathematical programming, code written in J is often very terse."
+            ],
+            "value": [
+                "0.204319781"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Ocaml",
+            "metadata": [
+                "An object-oriented language with an emphasis on software reliability."
+            ],
+            "value": [
+                "0.422918484"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Ladder Logic",
+            "metadata": [
+                "A primarily graphical language for the development of industrial programmable logic controllers."
+            ],
+            "value": [
+                "0.302579092"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Groovy",
+            "metadata": [
+                "Apache Groovy is an object-oriented programming language that run on the Java platform. The web framework Grails is built on top of Groovy."
+            ],
+            "value": [
+                "1.635913753"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Dart",
+            "metadata": [
+                "Developed by Google, Dart can be compiled to the ARM and x86 architectures for mobile use or transpiled to JavaScript for browser applications. The Flutter framework built on Dart is designed for building Uis on mobile and desktop platforms."
+            ],
+            "value": [
+                "4.179632031"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "CoffeeScript",
+            "metadata": [
+                "Coffeescript is designed to make writing Javascript easier by implementing a layer of syntatic conventions from other languages."
+            ],
+            "value": [
+                "0.025980981"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Forth",
+            "metadata": [
+                "Originally designed to control radio telescopes, Forth is still used for applications such as boot loaders and other firmware. The increase in populariluty of retrocomputing have also seen a renewal of interest from 8-bit microcomputer makers because of its small footprint."
+            ],
+            "value": [
+                "0.170146983"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Kotlin",
+            "metadata": [
+                "An extension of Java, Kotlin code can run on the Java Virtual Machine, compiled to JavaScript or a native app. Although it supports multiple operating systems, it's primary use is in creating Android mobile applications."
+            ],
+            "value": [
+                "5.712685875"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Elixir",
+            "metadata": [
+                "An extension of the Erlang programming language, Elixir is intended for large-scale software, such as high traffic websites or handling volumes of data."
+            ],
+            "value": [
+                "0.883519508"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "F#",
+            "metadata": [
+                "Originally developed by Microsoft, F# is targeted towards the .NET software framework most often found on Windows. It is primarily built around functions, but also support object-oriented programming."
+            ],
+            "value": [
+                "0.875383917"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Eiffel",
+            "metadata": [
+                "An object-oriented language that has influenced several other important languages. An important principle is that as much as possible of the job of optimizing code should be left to the compiler while the programmer focuses on fundamental logic and readability."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Elm",
+            "metadata": [
+                "Designed for creating graphical user interface-based applications in web browsers"
+            ],
+            "value": [
+                "0.168460091"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "WebAssembly",
+            "metadata": [
+                "Creates binaries for web applications that run in a virtual machine, reducing load times versus code that is sent for just-in-time compilation, such as JavaScript."
+            ],
+            "value": [
+                "0.050704932"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "TypeScript",
+            "metadata": [
+                "A superset of JavaScript developed by Microsoft"
+            ],
+            "value": [
+                "16.98592102"
+            ]
+        },
+        {
+            "filter": "Spectrum",
+            "label": "Raku",
+            "metadata": [
+                "A scripting language and originally known as Perl 6, the lack of compatibiity between it and the still maintained Perl 5 forced a renaming in 2019 to avoid confusion."
+            ],
+            "value": [
+                "0.147349986"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Python",
+            "metadata": [
+                "An object-oriented, interpreted language that gains much of its power from a large constellation of libraries, including popular modules for machine learning and scientific computing."
+            ],
+            "value": [
+                "88.21651034"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "C++",
+            "metadata": [
+                "Essentially an object-oriented version of C that proved to be a natural fit for software driven by graphical user interfaces."
+            ],
+            "value": [
+                "47.76638668"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Java",
+            "metadata": [
+                "An object-oriented language that creates code intended to be run on a virtual machine, allowing it to run on different platforms with little or no modification. Java is a popular choice for Web applications."
+            ],
+            "value": [
+                "95.07035896"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "C",
+            "metadata": [
+                "C is used to write software where speed and flexibility is important, such as in embedded systems or high-performance computing."
+            ],
+            "value": [
+                "48.50726945"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "C#",
+            "metadata": [
+                "An object-oriented language created by Microsoft for developing software for the .NET framework, which supports many applications running on Windows and Azure."
+            ],
+            "value": [
+                "63.18526596"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "PHP",
+            "metadata": [
+                "A scripting language primarily designed to support dynamic websites."
+            ],
+            "value": [
+                "9.922473216"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "R",
+            "metadata": [
+                "A language and programming environment designed for statistical analysis and data-mining applications."
+            ],
+            "value": [
+                "3.111243257"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "JavaScript",
+            "metadata": [
+                "A scripting language used primarily to add functionality to Web browsers on the fly, allowing the creation of complex Web pages."
+            ],
+            "value": [
+                "71.17688785"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Go",
+            "metadata": [
+                "Created by Google, Go has built-in support for programs that need to exchange information while running concurrently on different cores or computers."
+            ],
+            "value": [
+                "12.95509385"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Assembly",
+            "metadata": [
+                "A catchall term for a vast family of processor instruction sets, writing assembly code requires considerable expertise, but it allows the creation of high-speed software that can run directly \"on the metal.\" Not to be confused with WebAssembly"
+            ],
+            "value": [
+                "1.016811491"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Matlab",
+            "metadata": [
+                "A scripting language for MathWorks' Matlab computing environment, Matlab is designed for numerical computing tasks, such as engineering or scientific simulations."
+            ],
+            "value": [
+                "3.776259633"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Scala",
+            "metadata": [
+                "Programs written in Scala, an alternative to Java, can run on the same \"virtual machine\" as Java programs."
+            ],
+            "value": [
+                "16.76460243"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Ruby",
+            "metadata": [
+                "A scripting language designed to offer greater support for objects than other such languages."
+            ],
+            "value": [
+                "14.06253654"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "HTML",
+            "metadata": [
+                "HTML is a specialized language for describing the appearance and content of web pages, often extended using CSS and SCSSS."
+            ],
+            "value": [
+                "37.028321"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Arduino",
+            "metadata": [
+                "Based on the Wiring language, with a development environment based on the Processing language which in turn was based on Java, the native language for the Arduino microcontroller has become the basis of a huge number of home-brew and prototype devices."
+            ],
+            "value": [
+                "0.085704354"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Shell",
+            "metadata": [
+                "A catchall term for a number of frameworks that allow scripting of operating system command-line instructions."
+            ],
+            "value": [
+                "16.43894911"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Perl",
+            "metadata": [
+                "Often used as the \"glue\" in complex systems, Perl used to refer to two closely related but distinct languages, Perl 5, and the overhauled Perl 6, but in 2019 Perl 6 was renamed Raku"
+            ],
+            "value": [
+                "9.656154987"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Swift",
+            "metadata": [
+                "Apple's current language for creating iOS and macOS software. The language is compatible with C, C++, and Objective-C code"
+            ],
+            "value": [
+                "2.246183912"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Objective-C",
+            "metadata": [
+                "Objective-C was Apple's favored language for writing applications for OS X or iOS until the introduction of Swift."
+            ],
+            "value": [
+                "5.001241209"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Lua",
+            "metadata": [
+                "A scripting language often used to make other applications programmable, especially in the animation and gaming domains, including the popular Roblox platform."
+            ],
+            "value": [
+                "0.427898656"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Fortran",
+            "metadata": [
+                "Created in the 1950s, Fortran is still used for high-performance scientific and engineering computing."
+            ],
+            "value": [
+                "0.258500855"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "SQL",
+            "metadata": [
+                "A specialized language designed to query and manipulate databases. Extensions exist that allow more general programs to be written, allowing, for example, buisiness logic to be run alongside a database."
+            ],
+            "value": [
+                "100"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Haskell",
+            "metadata": [
+                "A language built around pure functional programming, designed for applications where reliability is important."
+            ],
+            "value": [
+                "0.226949447"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "VHDL",
+            "metadata": [
+                "A hardware description language used in the creation and analysis of electronic circuits."
+            ],
+            "value": [
+                "1.026922896"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Visual Basic",
+            "metadata": [
+                "Microsoft created Visual Basic to allow rapid development of Windows applications but while it still supports its modern version, the company annouced it had no further plans to \"evolve Visual Basic as a language\" in 2020."
+            ],
+            "value": [
+                "1.867708577"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Cuda",
+            "metadata": [
+                "Created by graphics-chip maker Nvidia, Cuda is a platform and toolkit that allows programmers to tap the power of GPUs for general-purpose computing."
+            ],
+            "value": [
+                "0.683000811"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Rust",
+            "metadata": [
+                "Rust is designed to make concurrent systems easier to program reliably."
+            ],
+            "value": [
+                "2.94751036"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Verilog",
+            "metadata": [
+                "A hardware description language (defined by the IEEE 1364 standard) that is used in the creation and analysis of electronic circuits. It forms the basis of the more recent and extended SystemVerilog (IEEE 1800)"
+            ],
+            "value": [
+                "1.86156333"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "D",
+            "metadata": [
+                "Intended as a successor to C++, D features an inline assembler for using architecture specific hardware."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Pascal/Delphi",
+            "metadata": [
+                "Often found in the form of Delphi, a derivative of Pascal used for Windows applications and owned by the Embarcadero Delphi company. Open-source implementations under the rubric of Open Pascal exist for other platforms. other platforms."
+            ],
+            "value": [
+                "0.169397801"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Julia",
+            "metadata": [
+                "Julia is designed for statistical and scientific computing while retaining compatibility with legacy libraries written in Fortran or C."
+            ],
+            "value": [
+                "0.314664709"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Lisp",
+            "metadata": [
+                "Created in in the 1950s, Lisp became widely used by artificial intelligence researchers, but it has seen a decline in more recent years. However, dialects such as Clojure and Scheme (listed seperately) have active communities"
+            ],
+            "value": [
+                "0.118501993"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Prolog",
+            "metadata": [
+                "Originating in the artificial intelligence community, Prolog is primarily used as a teaching and research tool."
+            ],
+            "value": [
+                "0.06698307"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "LabView",
+            "metadata": [
+                "Created by National Instruments, LabView features a graphical programming environment designed for data acquisition and industrial control."
+            ],
+            "value": [
+                "0.482816279"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Erlang",
+            "metadata": [
+                "Created by Ericsson for embedded telephony applications, the release of Erlang as an open-source language in 1998 boosted its popularity among programmers developing applications that have to handle many concurrent tasks."
+            ],
+            "value": [
+                "0.251703455"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "SAS",
+            "metadata": [
+                "A data- and statistical-analysis language."
+            ],
+            "value": [
+                "9.326905753"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Clojure",
+            "metadata": [
+                "A dialect of Lisp that is compatible with the same \"virtual machine\" that supports Java programs."
+            ],
+            "value": [
+                "0.544248179"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Cobol",
+            "metadata": [
+                "Created in the late 1950s for business and financial applications, COBOL software still drives critical systems in many large institutions."
+            ],
+            "value": [
+                "1.030547854"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "ABAP",
+            "metadata": [
+                "ABAP (Advanced Business Application Programming) is an enterprise programming language created by SAP."
+            ],
+            "value": [
+                "0.985883198"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "TCL",
+            "metadata": [
+                "An interpreted language intended for rapid prototyping and supporting the Tk graphical user interface used primarily with Unix systems and Python applications."
+            ],
+            "value": [
+                "1.13072542"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Ada",
+            "metadata": [
+                "Originally designed for the U.S. Department of Defense, Ada is used for applications where reliability is critical, such as aerospace control systems."
+            ],
+            "value": [
+                "0.791929818"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Scheme",
+            "metadata": [
+                "Originally a teaching language, Scheme is now a family of Lisp varients still used for applications, with varients falling into into one of two groups, the \"small\" and \"large\" versions of the language."
+            ],
+            "value": [
+                "0.008043631"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "J",
+            "metadata": [
+                "Primarily used for analytics and mathematical programming, code written in J is often very terse."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Ocaml",
+            "metadata": [
+                "An object-oriented language with an emphasis on software reliability."
+            ],
+            "value": [
+                "0.0488849"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Ladder Logic",
+            "metadata": [
+                "A primarily graphical language for the development of industrial programmable logic controllers."
+            ],
+            "value": [
+                "0.186108178"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Groovy",
+            "metadata": [
+                "Apache Groovy is an object-oriented programming language that run on the Java platform. The web framework Grails is built on top of Groovy."
+            ],
+            "value": [
+                "3.304687255"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Dart",
+            "metadata": [
+                "Developed by Google, Dart can be compiled to the ARM and x86 architectures for mobile use or transpiled to JavaScript for browser applications. The Flutter framework built on Dart is designed for building Uis on mobile and desktop platforms."
+            ],
+            "value": [
+                "1.480141808"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "CoffeeScript",
+            "metadata": [
+                "Coffeescript is designed to make writing Javascript easier by implementing a layer of syntatic conventions from other languages."
+            ],
+            "value": [
+                "0.032174523"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Forth",
+            "metadata": [
+                "Originally designed to control radio telescopes, Forth is still used for applications such as boot loaders and other firmware. The increase in populariluty of retrocomputing have also seen a renewal of interest from 8-bit microcomputer makers because of its small footprint."
+            ],
+            "value": [
+                "0.163988193"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Kotlin",
+            "metadata": [
+                "An extension of Java, Kotlin code can run on the Java Virtual Machine, compiled to JavaScript or a native app. Although it supports multiple operating systems, it's primary use is in creating Android mobile applications."
+            ],
+            "value": [
+                "8.039583617"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Elixir",
+            "metadata": [
+                "An extension of the Erlang programming language, Elixir is intended for large-scale software, such as high traffic websites or handling volumes of data."
+            ],
+            "value": [
+                "0.872366127"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "F#",
+            "metadata": [
+                "Originally developed by Microsoft, F# is targeted towards the .NET software framework most often found on Windows. It is primarily built around functions, but also support object-oriented programming."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Eiffel",
+            "metadata": [
+                "An object-oriented language that has influenced several other important languages. An important principle is that as much as possible of the job of optimizing code should be left to the compiler while the programmer focuses on fundamental logic and readability."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Elm",
+            "metadata": [
+                "Designed for creating graphical user interface-based applications in web browsers"
+            ],
+            "value": [
+                "0.243178271"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "WebAssembly",
+            "metadata": [
+                "Creates binaries for web applications that run in a virtual machine, reducing load times versus code that is sent for just-in-time compilation, such as JavaScript."
+            ],
+            "value": [
+                "0.132578347"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "TypeScript",
+            "metadata": [
+                "A superset of JavaScript developed by Microsoft"
+            ],
+            "value": [
+                "30.57311366"
+            ]
+        },
+        {
+            "filter": "Jobs",
+            "label": "Raku",
+            "metadata": [
+                "A scripting language and originally known as Perl 6, the lack of compatibiity between it and the still maintained Perl 5 forced a renaming in 2019 to avoid confusion."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Python",
+            "metadata": [
+                "An object-oriented, interpreted language that gains much of its power from a large constellation of libraries, including popular modules for machine learning and scientific computing."
+            ],
+            "value": [
+                "100"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "C++",
+            "metadata": [
+                "Essentially an object-oriented version of C that proved to be a natural fit for software driven by graphical user interfaces."
+            ],
+            "value": [
+                "53.25965019"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Java",
+            "metadata": [
+                "An object-oriented language that creates code intended to be run on a virtual machine, allowing it to run on different platforms with little or no modification. Java is a popular choice for Web applications."
+            ],
+            "value": [
+                "74.19311825"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "C",
+            "metadata": [
+                "C is used to write software where speed and flexibility is important, such as in embedded systems or high-performance computing."
+            ],
+            "value": [
+                "66.68585284"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "C#",
+            "metadata": [
+                "An object-oriented language created by Microsoft for developing software for the .NET framework, which supports many applications running on Windows and Azure."
+            ],
+            "value": [
+                "48.58826342"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "PHP",
+            "metadata": [
+                "A scripting language primarily designed to support dynamic websites."
+            ],
+            "value": [
+                "26.16299392"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "R",
+            "metadata": [
+                "A language and programming environment designed for statistical analysis and data-mining applications."
+            ],
+            "value": [
+                "18.90371487"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "JavaScript",
+            "metadata": [
+                "A scripting language used primarily to add functionality to Web browsers on the fly, allowing the creation of complex Web pages."
+            ],
+            "value": [
+                "60.16669178"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Go",
+            "metadata": [
+                "Created by Google, Go has built-in support for programs that need to exchange information while running concurrently on different cores or computers."
+            ],
+            "value": [
+                "20.88338075"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Assembly",
+            "metadata": [
+                "A catchall term for a vast family of processor instruction sets, writing assembly code requires considerable expertise, but it allows the creation of high-speed software that can run directly \"on the metal.\" Not to be confused with WebAssembly"
+            ],
+            "value": [
+                "11.56392381"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Matlab",
+            "metadata": [
+                "A scripting language for MathWorks' Matlab computing environment, Matlab is designed for numerical computing tasks, such as engineering or scientific simulations."
+            ],
+            "value": [
+                "8.87716313"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Scala",
+            "metadata": [
+                "Programs written in Scala, an alternative to Java, can run on the same \"virtual machine\" as Java programs."
+            ],
+            "value": [
+                "7.717210016"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Ruby",
+            "metadata": [
+                "A scripting language designed to offer greater support for objects than other such languages."
+            ],
+            "value": [
+                "9.490384454"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "HTML",
+            "metadata": [
+                "HTML is a specialized language for describing the appearance and content of web pages, often extended using CSS and SCSSS."
+            ],
+            "value": [
+                "25.08067509"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Arduino",
+            "metadata": [
+                "Based on the Wiring language, with a development environment based on the Processing language which in turn was based on Java, the native language for the Arduino microcontroller has become the basis of a huge number of home-brew and prototype devices."
+            ],
+            "value": [
+                "12.84159286"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Shell",
+            "metadata": [
+                "A catchall term for a number of frameworks that allow scripting of operating system command-line instructions."
+            ],
+            "value": [
+                "12.29765415"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Perl",
+            "metadata": [
+                "Often used as the \"glue\" in complex systems, Perl used to refer to two closely related but distinct languages, Perl 5, and the overhauled Perl 6, but in 2019 Perl 6 was renamed Raku"
+            ],
+            "value": [
+                "4.479691002"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Swift",
+            "metadata": [
+                "Apple's current language for creating iOS and macOS software. The language is compatible with C, C++, and Objective-C code"
+            ],
+            "value": [
+                "10.54550457"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Objective-C",
+            "metadata": [
+                "Objective-C was Apple's favored language for writing applications for OS X or iOS until the introduction of Swift."
+            ],
+            "value": [
+                "5.049231863"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Lua",
+            "metadata": [
+                "A scripting language often used to make other applications programmable, especially in the animation and gaming domains, including the popular Roblox platform."
+            ],
+            "value": [
+                "5.361333238"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Fortran",
+            "metadata": [
+                "Created in the 1950s, Fortran is still used for high-performance scientific and engineering computing."
+            ],
+            "value": [
+                "1.250988746"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "SQL",
+            "metadata": [
+                "A specialized language designed to query and manipulate databases. Extensions exist that allow more general programs to be written, allowing, for example, buisiness logic to be run alongside a database."
+            ],
+            "value": [
+                "45.5106045"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Haskell",
+            "metadata": [
+                "A language built around pure functional programming, designed for applications where reliability is important."
+            ],
+            "value": [
+                "4.553548057"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "VHDL",
+            "metadata": [
+                "A hardware description language used in the creation and analysis of electronic circuits."
+            ],
+            "value": [
+                "1.140716641"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Visual Basic",
+            "metadata": [
+                "Microsoft created Visual Basic to allow rapid development of Windows applications but while it still supports its modern version, the company annouced it had no further plans to \"evolve Visual Basic as a language\" in 2020."
+            ],
+            "value": [
+                "5.260721218"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Cuda",
+            "metadata": [
+                "Created by graphics-chip maker Nvidia, Cuda is a platform and toolkit that allows programmers to tap the power of GPUs for general-purpose computing."
+            ],
+            "value": [
+                "5.355587481"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Rust",
+            "metadata": [
+                "Rust is designed to make concurrent systems easier to program reliably."
+            ],
+            "value": [
+                "17.07426689"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Verilog",
+            "metadata": [
+                "A hardware description language (defined by the IEEE 1364 standard) that is used in the creation and analysis of electronic circuits. It forms the basis of the more recent and extended SystemVerilog (IEEE 1800)"
+            ],
+            "value": [
+                "1.500585762"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "D",
+            "metadata": [
+                "Intended as a successor to C++, D features an inline assembler for using architecture specific hardware."
+            ],
+            "value": [
+                "15.06958138"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Pascal/Delphi",
+            "metadata": [
+                "Often found in the form of Delphi, a derivative of Pascal used for Windows applications and owned by the Embarcadero Delphi company. Open-source implementations under the rubric of Open Pascal exist for other platforms. other platforms."
+            ],
+            "value": [
+                "1.526555747"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Julia",
+            "metadata": [
+                "Julia is designed for statistical and scientific computing while retaining compatibility with legacy libraries written in Fortran or C."
+            ],
+            "value": [
+                "3.750930381"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Lisp",
+            "metadata": [
+                "Created in in the 1950s, Lisp became widely used by artificial intelligence researchers, but it has seen a decline in more recent years. However, dialects such as Clojure and Scheme (listed seperately) have active communities"
+            ],
+            "value": [
+                "3.544796288"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Prolog",
+            "metadata": [
+                "Originating in the artificial intelligence community, Prolog is primarily used as a teaching and research tool."
+            ],
+            "value": [
+                "1.494984846"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "LabView",
+            "metadata": [
+                "Created by National Instruments, LabView features a graphical programming environment designed for data acquisition and industrial control."
+            ],
+            "value": [
+                "1.741322408"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Erlang",
+            "metadata": [
+                "Created by Ericsson for embedded telephony applications, the release of Erlang as an open-source language in 1998 boosted its popularity among programmers developing applications that have to handle many concurrent tasks."
+            ],
+            "value": [
+                "0.812939278"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "SAS",
+            "metadata": [
+                "A data- and statistical-analysis language."
+            ],
+            "value": [
+                "14.91388541"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Clojure",
+            "metadata": [
+                "A dialect of Lisp that is compatible with the same \"virtual machine\" that supports Java programs."
+            ],
+            "value": [
+                "1.103757761"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Cobol",
+            "metadata": [
+                "Created in the late 1950s for business and financial applications, COBOL software still drives critical systems in many large institutions."
+            ],
+            "value": [
+                "2.168301333"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "ABAP",
+            "metadata": [
+                "ABAP (Advanced Business Application Programming) is an enterprise programming language created by SAP."
+            ],
+            "value": [
+                "2.701458356"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "TCL",
+            "metadata": [
+                "An interpreted language intended for rapid prototyping and supporting the Tk graphical user interface used primarily with Unix systems and Python applications."
+            ],
+            "value": [
+                "0.566022613"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Ada",
+            "metadata": [
+                "Originally designed for the U.S. Department of Defense, Ada is used for applications where reliability is critical, such as aerospace control systems."
+            ],
+            "value": [
+                "3.948829285"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Scheme",
+            "metadata": [
+                "Originally a teaching language, Scheme is now a family of Lisp varients still used for applications, with varients falling into into one of two groups, the \"small\" and \"large\" versions of the language."
+            ],
+            "value": [
+                "1.811398815"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "J",
+            "metadata": [
+                "Primarily used for analytics and mathematical programming, code written in J is often very terse."
+            ],
+            "value": [
+                "1.124644724"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Ocaml",
+            "metadata": [
+                "An object-oriented language with an emphasis on software reliability."
+            ],
+            "value": [
+                "0.945019211"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Ladder Logic",
+            "metadata": [
+                "A primarily graphical language for the development of industrial programmable logic controllers."
+            ],
+            "value": [
+                "0.976033131"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Groovy",
+            "metadata": [
+                "Apache Groovy is an object-oriented programming language that run on the Java platform. The web framework Grails is built on top of Groovy."
+            ],
+            "value": [
+                "1.210047432"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Dart",
+            "metadata": [
+                "Developed by Google, Dart can be compiled to the ARM and x86 architectures for mobile use or transpiled to JavaScript for browser applications. The Flutter framework built on Dart is designed for building Uis on mobile and desktop platforms."
+            ],
+            "value": [
+                "14.78713366"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "CoffeeScript",
+            "metadata": [
+                "Coffeescript is designed to make writing Javascript easier by implementing a layer of syntatic conventions from other languages."
+            ],
+            "value": [
+                "0"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Forth",
+            "metadata": [
+                "Originally designed to control radio telescopes, Forth is still used for applications such as boot loaders and other firmware. The increase in populariluty of retrocomputing have also seen a renewal of interest from 8-bit microcomputer makers because of its small footprint."
+            ],
+            "value": [
+                "0.572606616"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Kotlin",
+            "metadata": [
+                "An extension of Java, Kotlin code can run on the Java Virtual Machine, compiled to JavaScript or a native app. Although it supports multiple operating systems, it's primary use is in creating Android mobile applications."
+            ],
+            "value": [
+                "8.238737497"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Elixir",
+            "metadata": [
+                "An extension of the Erlang programming language, Elixir is intended for large-scale software, such as high traffic websites or handling volumes of data."
+            ],
+            "value": [
+                "2.14818147"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "F#",
+            "metadata": [
+                "Originally developed by Microsoft, F# is targeted towards the .NET software framework most often found on Windows. It is primarily built around functions, but also support object-oriented programming."
+            ],
+            "value": [
+                "4.464114268"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Eiffel",
+            "metadata": [
+                "An object-oriented language that has influenced several other important languages. An important principle is that as much as possible of the job of optimizing code should be left to the compiler while the programmer focuses on fundamental logic and readability."
+            ],
+            "value": [
+                "0.045640158"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Elm",
+            "metadata": [
+                "Designed for creating graphical user interface-based applications in web browsers"
+            ],
+            "value": [
+                "0.427434258"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "WebAssembly",
+            "metadata": [
+                "Creates binaries for web applications that run in a virtual machine, reducing load times versus code that is sent for just-in-time compilation, such as JavaScript."
+            ],
+            "value": [
+                "0.054943926"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "TypeScript",
+            "metadata": [
+                "A superset of JavaScript developed by Microsoft"
+            ],
+            "value": [
+                "13.02380573"
+            ]
+        },
+        {
+            "filter": "Trending",
+            "label": "Raku",
+            "metadata": [
+                "A scripting language and originally known as Perl 6, the lack of compatibiity between it and the still maintained Perl 5 forced a renaming in 2019 to avoid confusion."
+            ],
+            "value": [
+                "0.929997455"
+            ]
+        }
+    ]
+}
